@@ -2,7 +2,13 @@
 
 Fingerprint Based Door Lock using the C Language in Arduino UNO
 
-Using AdaFruit Library
+#Components Required
+- FingerPrint Scanner
+- Arduino Uno
+- Jumper Wires
+- Relay Module
+- Electric Door Lock
+
 
 - This Specific Code Helps In Veryifying the Fingerprints and Sends the True Value
 
